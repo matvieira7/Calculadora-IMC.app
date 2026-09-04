@@ -1,49 +1,68 @@
+<div align="center">
 🧮 Calculadora de IMC
+Projeto Android desenvolvido em Java + Android Studio
+<br>
 
-Aplicativo Android desenvolvido em Java utilizando o Android Studio.
 
-O projeto começou como uma calculadora básica e evoluiu para uma calculadora de IMC (Índice de Massa Corporal), permitindo acompanhar essa evolução através do histórico de commits.
 
-📱 Versões
+
+
+</div>
+📱 Sobre
+
+Aplicativo desenvolvido durante as aulas de desenvolvimento Android.
+
+O projeto começou como uma calculadora básica e posteriormente foi evoluído para uma calculadora de IMC, mantendo a mesma base do projeto.
+
+<div align="center">
+🚀 Evolução
+
+V1 • Calculadora Básica → V2 • Calculadora de IMC
+
+</div>
+✨ Funcionalidades
+<table> <tr> <td width="50%">
 V1 — Calculadora Básica
-
-Primeira versão do projeto, desenvolvida para trabalhar com operações matemáticas básicas.
-
-Operações disponíveis:
-
 ➕ Soma
 ➖ Subtração
 ✖️ Multiplicação
 ➗ Divisão
+</td> <td width="50%">
 V2 — Calculadora de IMC
-
-Evolução da calculadora básica para o cálculo do Índice de Massa Corporal.
-
-O usuário informa:
-
-⚖️ Peso
-📏 Altura
-
-E o aplicativo calcula o IMC com base nos valores informados.
-
-🛠️ Tecnologias utilizadas
+⚖️ Entrada de peso
+📏 Entrada de altura
+🧮 Cálculo do IMC
+📊 Resultado do cálculo
+</td> </tr> </table>
+🛠️ Tecnologias
+<div align="center">
 Tecnologia	Utilização
-☕ Java	Linguagem de programação
-🤖 Android Studio	Desenvolvimento do aplicativo
-📱 Android SDK	Desenvolvimento para Android
-📌 Evolução do projeto
-V1
-Calculadora Básica
+☕ Java	Linguagem principal
+🤖 Android Studio	Ambiente de desenvolvimento
+📱 Android SDK	Desenvolvimento Android
+🌱 Git	Controle de versão
+</div>
+📂 Histórico
+
+O desenvolvimento do projeto pode ser acompanhado através dos commits:
+
+Initial commit
       │
       ▼
-V2
-Calculadora de IMC
+V1 - Calculadora básica
+      │
+      ▼
+V2 - Calculadora de IMC
 
 
-A evolução entre as versões pode ser acompanhada pelo histórico de commits deste repositório.
+Cada versão representa uma etapa da evolução do aplicativo.
 
-🎓 Objetivo
+🎓 Projeto acadêmico
 
-Projeto desenvolvido para fins acadêmicos, com o objetivo de praticar desenvolvimento Android utilizando Java e Android Studio.
+Projeto desenvolvido para fins acadêmicos, como prática de desenvolvimento de aplicativos Android utilizando Java.
 
-Desenvolvido como atividade de aula.
+<div align="center">
+
+Java • Android • Git
+
+</div>
