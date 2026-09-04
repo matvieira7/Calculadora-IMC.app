@@ -1,35 +1,49 @@
-Calculadora de IMC
+🧮 Calculadora de IMC
 
-Projeto desenvolvido em Java no Android Studio como atividade de aula.
+Aplicativo Android desenvolvido em Java utilizando o Android Studio.
 
-📱 Sobre o projeto
+O projeto começou como uma calculadora básica e evoluiu para uma calculadora de IMC (Índice de Massa Corporal), permitindo acompanhar essa evolução através do histórico de commits.
 
-O projeto apresenta a evolução de uma calculadora básica para uma Calculadora de IMC (Índice de Massa Corporal).
-
+📱 Versões
 V1 — Calculadora Básica
 
-Primeira versão do projeto, desenvolvida com operações matemáticas básicas.
+Primeira versão do projeto, desenvolvida para trabalhar com operações matemáticas básicas.
 
-Soma
-Subtração
-Multiplicação
-Divisão
+Operações disponíveis:
+
+➕ Soma
+➖ Subtração
+✖️ Multiplicação
+➗ Divisão
 V2 — Calculadora de IMC
 
-Segunda versão do projeto, modificada para realizar o cálculo do Índice de Massa Corporal (IMC) a partir do peso e da altura informados pelo usuário.
+Evolução da calculadora básica para o cálculo do Índice de Massa Corporal.
 
-🛠️ Tecnologias
-Java
-Android Studio
-Android SDK
-📂 Estrutura do projeto
+O usuário informa:
 
-O projeto possui uma única versão atual, mas sua evolução pode ser acompanhada pelo histórico de commits do Git:
+⚖️ Peso
+📏 Altura
 
-V1 → Calculadora Básica
-        ↓
-V2 → Calculadora de IMC
+E o aplicativo calcula o IMC com base nos valores informados.
 
-👨‍💻 Projeto
+🛠️ Tecnologias utilizadas
+Tecnologia	Utilização
+☕ Java	Linguagem de programação
+🤖 Android Studio	Desenvolvimento do aplicativo
+📱 Android SDK	Desenvolvimento para Android
+📌 Evolução do projeto
+V1
+Calculadora Básica
+      │
+      ▼
+V2
+Calculadora de IMC
 
-Projeto desenvolvido para fins acadêmicos.
+
+A evolução entre as versões pode ser acompanhada pelo histórico de commits deste repositório.
+
+🎓 Objetivo
+
+Projeto desenvolvido para fins acadêmicos, com o objetivo de praticar desenvolvimento Android utilizando Java e Android Studio.
+
+Desenvolvido como atividade de aula.
